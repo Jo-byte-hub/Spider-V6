@@ -2,20 +2,20 @@
 
 
 require("./all/module")
-global.owner = "254742491666" 
-global.namaCreator = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
+global.owner = "2349115983460" 
+global.namaCreator = "Joshua" 
 global.autoJoin = false 
-global.antilink = false 
+global.antilink = true 
 global.versisc = '6.0' 
-global.codeInvite = "https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e"
-global.isLink = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.codeInvite = "https://chat.whatsapp.com/Ek55y9kQcFTKO8BtUT0RfH"
+global.isLink = 'https://chat.whatsapp.com/Ek55y9kQcFTKO8BtUT0RfH'
 global.sessionName = 'session'
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
 global.packname = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
-global.author = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
+global.author = "Josh BOT" 
 global.jumlah = "5" 
-global.namabot = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
+global.namabot = "Josh BOT" 
 global.domain = 'https://kingsam.sellerpanelerol.me' // your domian
 global.apikey = 'ptla_VRxkhvalZQ3EhHyAax9QYxgT5cbsx2MrO69gBpVZmmd' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_sQ3d4GxCiztyV5DbhUJSWtvnSCyKzeMXoWIr2lVyqal' // Isi Apikey Pltc Lu
